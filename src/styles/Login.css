@@ -1,0 +1,28 @@
+.login {
+    text-align: center;
+    margin-top: 40px;
+  }
+  
+  .login form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+  }
+  
+  .login input {
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #aaa;
+    font-size: large;
+  }
+  
+  .login button {
+    padding: 8px 18px;
+    background-color: #61dafb;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: large;
+  }
+  

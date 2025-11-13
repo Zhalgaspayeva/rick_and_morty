@@ -1,0 +1,17 @@
+.navbar {
+    display: flex;
+    gap: 20px;
+    background-color: #282c34;
+    padding: 16px;
+    font-size: 20px;
+  }
+  
+  .navbar a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .navbar a.active {
+    border-bottom: 2px solid #61dafb;
+  }
+  
